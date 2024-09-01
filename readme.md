@@ -14,7 +14,7 @@ You can use any other build system if you want so.
 
 # Examples
 ```.\spheregen.exe 1 3 0 0 0 minecraft:flame .\example\output.txt```
-![](https://github.com/DeLoR1AnEc/geodesicspheregen/blob/main/example/screenshots/0.png)
+![](example/screenshots/0.png)
 ```.\spheregen.exe 2 7 0 1.62 0 minecraft:flame .\example\output.txt```
 ![](example/screenshots/1.png)
 
