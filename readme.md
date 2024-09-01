@@ -5,6 +5,7 @@ This tool will help you add some spheres to minecraft!
 ```.\spheregen.exe <subdivisions> <radius> <offset x> <offset y> <offset z> <output file>```
 Please note that subdivisions must integer.
 Radius and offsets may be floats.
+Particles are just like in mcfucntion
 
 Copy text from generated file to your mcfunction.
 
